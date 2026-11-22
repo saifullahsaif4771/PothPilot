@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "PothPilot",
+    "slug": "pothpilot",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": { "package": "com.pothpilot.app" },
+    "ios": { "supportsTablet": false }
+  }
+}
